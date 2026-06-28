@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorene-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Verlorene Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-liebe/) |
+| **Get License** | [Music Rights & Licensing for Verlorene Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' im schwarzen Benz, Baby, alles glänzt für dich
+> Deine Augen leuchten wie die Sterne, wenn du sprichst
+> Bin gefangen in dem Vibe, du machst mich so verliebt
+> Wir tauchen tief ab, bis die verlorene Liebe siegt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
