@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorene-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Verlorene Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-liebe/) |
+| **Get License** | [License this song: Verlorene Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `38c9fbc9a837f9b1d6436d6ecb4aab89b996a10760924e8cb7060aacebb66ce4` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
